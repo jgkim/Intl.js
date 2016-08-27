@@ -6,6 +6,9 @@
   "directories": {
     "test": "tests"
   },
+  "react-native": {
+    "./locale-data/complete.js": "./locale-data/complete.js"
+  },
   "browser": {
     "./locale-data/complete": false,
     "./locale-data/complete.js": false
